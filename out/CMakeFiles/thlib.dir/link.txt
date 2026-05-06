@@ -1,0 +1,2 @@
+/usr/bin/ar qc libthlib.a CMakeFiles/thlib.dir/src/lib/arghandler.c.o CMakeFiles/thlib.dir/src/lib/threads.c.o CMakeFiles/thlib.dir/src/lib/rundata.c.o
+/usr/bin/ranlib libthlib.a

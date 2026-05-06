@@ -1,0 +1,4 @@
+/home/electricsplash/Projects/ThreadTool/out/CMakeFiles/thtool.dir
+/home/electricsplash/Projects/ThreadTool/out/CMakeFiles/thlib.dir
+/home/electricsplash/Projects/ThreadTool/out/CMakeFiles/edit_cache.dir
+/home/electricsplash/Projects/ThreadTool/out/CMakeFiles/rebuild_cache.dir
